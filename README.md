@@ -24,7 +24,7 @@ Generate album artwork and Spotify Canvas animations from audio files. This tool
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/audio-assets-generator.git
+   git clone https://github.com/danialrami/audio-assets-generator.git
    cd audio-assets-generator
    ```
 
