@@ -1,10 +1,10 @@
 # Audio Assets Generator
 
-Generate album artwork and Spotify Canvas animations from your audio files. This tool automatically creates:
+Generate album artwork and Spotify Canvas animations from audio files. This tool automatically creates:
 
 1. Album artwork based on spectrograms and unique identicons
-2. Spotify Canvas animations with glitch effects
-3. A catalog ID system for tracking your audio files
+2. Spotify Canvas animations with glitch effects (adapted from [this repo](https://github.com/danialrami/canvas-generator_spotify) for better automation)
+3. A catalog ID system for tracking audio files
 
 ## Features
 
